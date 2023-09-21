@@ -476,7 +476,7 @@ h6 {
            ==Top Search css==
 *************************************************/
 .searchwrap {
-	background: url(../images/search-bg.jpg) no-repeat;
+	background: url(search-bg.jpg) no-repeat;
 	background-size: cover;
 	padding: 100px 0;
 }
@@ -1058,7 +1058,7 @@ a.wit-btn {
            == Video css==
 *************************************************/
 .videowraper {
-	background: url(../images/videobg.jpg) no-repeat top;
+	background: url(videobg.jpg) no-repeat top;
 	background-size: cover;
 	background-attachment: fixed;
 	text-align: center;
@@ -1125,7 +1125,7 @@ a.wit-btn {
            == App Box css==
 *************************************************/
 .appwraper {
-	background: url(../images/app-bg.jpg) no-repeat top;
+	background: url(app-bg.jpg) no-repeat top;
 	background-size: cover;
 	padding-top: 70px;
 	background-attachment: fixed;
@@ -1174,7 +1174,7 @@ a.wit-btn {
 
 /*Page Title*/
 .pageTitle {
-	background: url(../images/page-title-bg.jpg) no-repeat;
+	background: url(page-title-bg.jpg) no-repeat;
 	background-size: cover;
 	padding: 70px 0;
 }
